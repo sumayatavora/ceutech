@@ -90,7 +90,7 @@ O projeto combina criatividade com tecnologia para atender autônomos, pequenos 
 Arquiteta, desenvolvedora web, artista visual e criadora da Céu Techn.  
 Acredita na tecnologia como ferramenta de conexão com o essencial.
 
-- 💌 contato@sumayatavora.com  
+- 💌 sumayatavora@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sumayatavora)  
 - 📸 [Instagram](https://www.instagram.com/sumayatavora)
 
