@@ -75,7 +75,7 @@ O projeto combina criatividade com tecnologia para atender autônomos, pequenos 
   <tr>
     <td align="center">
       <a href="https://github.com/sumayatavora">
-        <img src="https://avatars.githubusercontent.com/u/70615743?v=4" width="80px;" alt="Foto de perfil"/><br />
+    
         <sub><b>Sumaya Távora</b></sub>
       </a>
     </td>
