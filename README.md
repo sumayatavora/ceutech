@@ -74,9 +74,8 @@ O projeto combina criatividade com tecnologia para atender autônomos, pequenos 
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/sumayatavora">
-    
-        <sub><b>Sumaya Távora</b></sub>
+      <a href="https://github.com/sumayatavora">    
+      <b>Sumaya Távora</b>
       </a>
     </td>
   </tr>
